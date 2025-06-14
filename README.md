@@ -15,11 +15,12 @@ Let’s connect and build together — whether it’s research, open source, or 
 
 🎯 Interests: Deep Learning, Computer Vision
 
-📚 Learning: Computer Vision, Generative AI, DSA
-
 🧪 Currently Working On: Explainable and Responsible AI at Mozilla RCC, Data Hub systems at IIT Kharagpur, and Computer Vision projects
 
-📫 Reach Me:vidya23bcs93@iiitkottayam.ac.in
+📚 Learning: Computer Vision, Generative AI, DSA
+
+✨ Driven by a passion for tech and all about supporting women in STEM! 💻🌟👩‍🔬
+
    
 
 ### 🛠️ Technology and Tools
@@ -42,7 +43,10 @@ Let’s connect and build together — whether it’s research, open source, or 
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vidyakaarthikaakella/)  
+- 📫 Email: [vidya23bcs@93iiitkottayam.ac.in](mailto:vidya23bcs@93iiitkottayam.ac.in)
+
 
 ---
 
-_Thanks for stopping by! Feel free to explore my projects, share suggestions and connect! 
+Thank you for stopping by! Feel free to explore my projects, share your suggestions, and connect with me. 
+

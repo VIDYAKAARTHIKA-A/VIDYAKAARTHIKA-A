@@ -19,10 +19,8 @@ Let’s connect and build together — whether it’s research, open source, or 
 
 🧪 Currently Working On: Explainable and Responsible AI at Mozilla RCC, Data Hub systems at IIT Kharagpur, and Computer Vision projects
 
-📫 Reach Me: vidya23bcs@93iiitkottayam.ac.in
----
-
-
+📫 Reach Me:vidya23bcs93@iiitkottayam.ac.in
+   
 
 ### 🛠️ Technology and Tools
 

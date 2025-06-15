@@ -3,9 +3,9 @@
 <h1 align="center"> Vidya Kaarthika Akella </h1>
 <p align="left">
  Hey there 👋  
-I’m a third-year B.Tech Computer Science and Engineering student at the Indian Institute of Information Technology, Kottayam. I’m passionate about leveraging AI — and technology in general — to automate everyday tasks and build solutions that make life easier, smarter, and more efficient. I believe in using innovation to create real-world impact and improve the quality of life.
+I’m a third-year B.Tech Computer Science and Engineering student at the Indian Institute of Information Technology, Kottayam. I’m passionate about leveraging AI and technology in general to automate everyday tasks and build solutions that make life easier, smarter, and more efficient. I believe in using innovation to create real-world impact and improve the quality of life.
 
-Let’s connect and build together — whether it’s research, open source, or innovative tech projects!
+Let’s connect and build together whether it’s research, open source, or innovative tech projects!
 
 </p>
 

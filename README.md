@@ -13,7 +13,7 @@ Let’s connect and build together whether it’s research, open source, or inno
 
 ## 👩‍💻 About Me 
 
-🎯 Interests: Deep Learning, Computer Vision
+🎯 Interests: Deep Learning, Generative AI, Computer Vision
 
 🧪 Currently Working On: Explainable and Responsible AI at Mozilla RCC, Data Hub systems at IIT Kharagpur, and Computer Vision projects
 

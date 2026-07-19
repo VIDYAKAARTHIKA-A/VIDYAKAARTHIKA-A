@@ -44,7 +44,7 @@
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vidyakaarthikaakella/)  
-- 📫 Email: [vidya23bcs@93iiitkottayam.ac.in](mailto:avkaarthika@gmail.com)
+- 📫 Email: [mailto:avkaarthika@gmail.com]
 
 
 ---
